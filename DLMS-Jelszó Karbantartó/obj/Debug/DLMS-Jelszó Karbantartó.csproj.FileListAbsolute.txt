@@ -1,0 +1,13 @@
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\bin\Debug\DLMS-Jelszó Karbantartó.exe.config
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\bin\Debug\DLMS-Jelszó Karbantartó.exe
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\bin\Debug\DLMS-Jelszó Karbantartó.pdb
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS_Jelszó_Karbantartó.CreateForm.resources
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS_Jelszó_Karbantartó.LoginForm.resources
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS_Jelszó_Karbantartó.MainForm.resources
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS_Jelszó_Karbantartó.ModifyForm.resources
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS_Jelszó_Karbantartó.Properties.Resources.resources
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS-Jelszó Karbantartó.csproj.GenerateResource.cache
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS-Jelszó Karbantartó.csproj.CoreCompileInputs.cache
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS-Jelszó Karbantartó.exe
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS-Jelszó Karbantartó.pdb
+C:\Users\Petor Gergő\source\repos\DLMS-JelszoKarbantarto\DLMS-Jelszó Karbantartó\obj\Debug\DLMS-Jelszó Karbantartó.csprojAssemblyReference.cache
